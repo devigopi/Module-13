@@ -64,5 +64,3 @@ print("Evaluation result :",evaluate(expression))
 
 
 
-
-### RESULT
