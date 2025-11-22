@@ -50,7 +50,3 @@ print("No. of disks =",n)
    The recursive Tower of Hanoi program successfully displays all the required moves to transfer the user-specified number of disks from peg A to peg C using peg B as the auxiliary tower, following the correct rules of the puzzle is verified successfully.
 
 
-
-
-### RESULT
-
